@@ -9,7 +9,20 @@ Client ID: d8116c7e-f99a-48ee-839f-8235ecedff54
 Service Principal Object ID: f184bc4a-dce7-4ac2-96fb-e83f141bed0b
 Directory (tenant) ID: 060f84cb-4a83-41e2-9112-47aebf1b7d5d
 
-
 user22@20250919deagenticai.onmicrosoft.com
 2hQp7Xc9vJmV
+
+Storage Account: msagthacksaui43exexpjp7w
+Log Analytics Workspace: msagthack-loganalytics-ui43exexpjp7w
+Search Service: msagthack-search-ui43exexpjp7w
+API Management: 
+AI Foundry Hub: msagthack-aifoundry-ui43exexpjp7w
+AI Foundry Project: 
+Key Vault: msagthackkvui43exexpjp7w
+Container Registry: msagthackcrui43exexpjp7w
+Application Insights: msagthack-appinsights-ui43exexpjp7w
+Cosmos DB: msagthack-cosmos-ui43exexpjp7w
+Environment file created: ../.env
+
+
 
