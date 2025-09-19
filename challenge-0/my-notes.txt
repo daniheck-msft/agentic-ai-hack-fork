@@ -1,0 +1,16 @@
+YOUR_APP_NAME = agentic-ai-hack-fork
+
+Creating Azure AD app registration: agentic-ai-hack-fork
+WARNING: Found an existing application instance: (id) 22e27c57-7380-4957-9092-477bc3399edb. We will patch it.
+Creating service principal for app registration...
+Client ID: cd2e9f8d-2553-49e5-90f2-47914dc7238d
+Service Principal Object ID: ff49dcdc-16be-4447-b065-fcc1f86af851
+App Registration created.
+Client ID: cd2e9f8d-2553-49e5-90f2-47914dc7238d
+Service Principal Object ID: ff49dcdc-16be-4447-b065-fcc1f86af851
+Directory (tenant) ID: 16b3c013-d300-468d-ac64-7eda0820b6d3
+
+
+user22@20250919deagentic.onmicrosoft.com
+2hQp7Xc9vJmV
+
